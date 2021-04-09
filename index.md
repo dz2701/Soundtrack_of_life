@@ -3,6 +3,8 @@
 <center><p>This is a project for Western Reserve Academy's Angles in Writing course.<br/>
 Below are 9 songs in chronological order that were some of the most influential songs in my life.</p><center>
 
+<br/><br/>
+
 <center><h3> 센치해 (Sentimental) - WINNER<br/></h3></center>
 
 <br/><br/>
