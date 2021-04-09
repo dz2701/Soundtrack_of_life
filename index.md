@@ -1,4 +1,4 @@
-## Shin Lee's Soundtrack of Life
+<center>## Shin Lee's Soundtrack of Life</center>
 This is a project for Western Reserve Academy's Angles in Writing course.
 Below are 9 songs in chronological order that were some of the most influential songs in my life.
 
