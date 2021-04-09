@@ -1,5 +1,5 @@
 <style>#sidebar{display:none}</style>
-<style>#repo_ownder{display:inline}</style>
+<style>#repo_owner{display:inline}</style>
 <center><h2> Shin Lee's Soundtrack of Life</h2></center>
 
 <center><p>This is a project for Western Reserve Academy's Angles in Writing course.<br/>
