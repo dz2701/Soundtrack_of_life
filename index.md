@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere convallis
 <br/>
 
 <h3>Song: <br/></h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/glfJfcfqBHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/glfJfcfqBHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 <h3> 여행 (Travel) - 볼빨간사춘기 <br/></h3>
