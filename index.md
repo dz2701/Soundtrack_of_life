@@ -1,14 +1,14 @@
 <style>#sidebar{display:none}</style>
 <style>#repo-owner{display:inline}</style>
-<style>h2{text-align:center}</style>
+<style>h1{text-align:center}</style>
 <style>h3{text-align:center}</style>
 <style>p{text-align:center}</style>
 <style>iframe{text-align:center}</style>
 
-<h2> Shin Lee's Soundtrack of Life</h2>
+<h1> Shin Lee's Soundtrack of Life</h1>
 
-<p>This is a project for Western Reserve Academy's Angles in Writing course.<br/>
-Below are 9 songs in chronological order that were some of the most influential songs in my life.</p>
+<p><h2>This is a project for Western Reserve Academy's Angles in Writing course.<br/>
+Below are 9 songs in chronological order that were some of the most influential songs in my life.></h2></p>
 
 <br/>
 
