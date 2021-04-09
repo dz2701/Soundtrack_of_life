@@ -1,6 +1,7 @@
 <style>#sidebar{display:none}</style>
 <style>#repo-owner{display:inline}</style>
 <style>h1{text-align:center}</style>
+<style>h2{text-align:center}</style>
 <style>h3{text-align:center}</style>
 <style>p{text-align:center}</style>
 <style>iframe{text-align:center}</style>
