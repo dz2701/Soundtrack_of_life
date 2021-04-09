@@ -1,12 +1,12 @@
 ## Shin Lee's Soundtrack of Life
 
-You can use the [editor on GitHub](https://github.com/dz2701/Soundtrack_of_life/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 센치해 (Sentimental) - WINNER
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sentimental is a song about a boy who thinks about his ex-girlfriend on a sentimental day.
+This was the first song of the first concert that I have ever went with my friends, and along.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere convallis nisi, commodo aliquam ante imperdiet a. Suspendisse quam ante, consequat a rutrum in, volutpat vel augue. Suspendisse semper ligula quis lacus rhoncus tincidunt. Curabitur feugiat dolor et accumsan molestie.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glfJfcfqBHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ```markdown
 Syntax highlighted code block
