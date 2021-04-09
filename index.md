@@ -8,8 +8,8 @@
 
 <h1> Shin Lee's Soundtrack of Life</h1>
 
-<p><h3>This is a project for Western Reserve Academy's Angles in Writing course.<br/>
-Below are 9 songs in chronological order that were some of the most influential songs in my life.</h3></p>
+<p><h3>This is a project for Western Reserve Academy's Angles in Writing course.<br/></h3>
+<h4>Below are 9 songs in chronological order that were some of the most influential songs in my life.</h4></p>
 
 <br/>
 
