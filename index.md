@@ -1,4 +1,6 @@
 ## Shin Lee's Soundtrack of Life
+This is a project for Western Reserve Academy's Angles in Writing course.
+Below are 9 songs in chronological order that were some of the most influential songs in my life.
 
 ### 센치해 (Sentimental) - WINNER
 
