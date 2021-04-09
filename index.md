@@ -3,17 +3,17 @@
 <center><p>This is a project for Western Reserve Academy's Angles in Writing course.<br/>
 Below are 9 songs in chronological order that were some of the most influential songs in my life.</p><center>
 
-<br/><br/>
+<br/>
 
 <center><h3> 센치해 (Sentimental) - WINNER<br/></h3></center>
 
-<br/><br/>
+<br/>
 
 <center><p>Sentimental is a song about a boy who thinks about his ex-girlfriend on a sentimental day.<br/>
 This was the first song of the first concert that I have ever went with my friends, and along.<br/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere convallis nisi, commodo aliquam ante imperdiet a. Suspendisse quam ante, consequat a rutrum in, volutpat vel augue. Suspendisse semper ligula quis lacus rhoncus tincidunt. Curabitur feugiat dolor et accumsan molestie.<br/></p></center>
 
-<br/><br/>
+<br/>
 
 <center><h3>Song: <br/></h3></center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/glfJfcfqBHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
