@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 <center><h2> Shin Lee's Soundtrack of Life</h2></center>
 
 <p>This is a project for Western Reserve Academy's Angles in Writing course.<br/>
