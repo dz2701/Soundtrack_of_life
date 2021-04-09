@@ -9,7 +9,7 @@ This was the first song of the first concert that I have ever went with my frien
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere convallis nisi, commodo aliquam ante imperdiet a. Suspendisse quam ante, consequat a rutrum in, volutpat vel augue. Suspendisse semper ligula quis lacus rhoncus tincidunt. Curabitur feugiat dolor et accumsan molestie.
 
 Song: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/glfJfcfqBHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/glfJfcfqBHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Jekyll Themes
 
