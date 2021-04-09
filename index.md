@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Shin Lee's Soundtrack of Life
 
 You can use the [editor on GitHub](https://github.com/dz2701/Soundtrack_of_life/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
