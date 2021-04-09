@@ -3,7 +3,7 @@
 <style>h1{text-align:center}</style>
 <style>h2{text-align:center}</style>
 <style>h3{text-align:center}</style>
-<style>p{text-align:center}</style>
+<style>p{text-align:center;line-height:1.9;}</style>
 <style>iframe{text-align:center}</style>
 
 <h1> Shin Lee's Soundtrack of Life</h1>
@@ -21,7 +21,7 @@
 
 <br/>
 
-<p style="line-height: 1.9">Sentimental is a song about a boy who thinks about his ex-girlfriend on a sentimental day.<br/><br/>
+<p>Sentimental is a song about a boy who thinks about his ex-girlfriend on a sentimental day.<br/><br/>
 This was the first song of the first concert that I have ever went with my friends, and along.<br/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere convallis nisi, commodo aliquam ante imperdiet a. Suspendisse quam ante, consequat a rutrum in, volutpat vel augue. Suspendisse semper ligula quis lacus rhoncus tincidunt. Curabitur feugiat dolor et accumsan molestie.<br/></p>
 
