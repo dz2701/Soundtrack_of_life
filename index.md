@@ -49,7 +49,7 @@ It served as a great refresher during my finals week. Although it was only a few
 
 <br/>
 
-<p>I actually got to know this song by a cover by another artist, but it is a song about moving to Jeju Island and running away from the busy, dry life in the city.<br/>At that time, I was very pessimistic about living in the city, and felt similar and listened to this music on my way back home from my math academy. In the song, he/she says “떠나요 둘이서 모든 걸 훌훌 버리고 (Let us leave together leaving everything behind)” and “도시의 침묵 보다는 바다의 속삭임이 좋아요 (I like the whispers of the sea than the silence of the city)”. Having lived in suburb China and Gyeonggi-do (suburb) previously, I definitely felt the same while living in the city during my middle school years.<br/></p>
+<p>I actually got to know this song by a cover by another artist, but it is a song about moving to Jeju Island and running away from the busy, dry life in the city.<br/>At that time, I was very pessimistic about living in the city, and felt similar and listened to this music on my way back home from my math academy. <br/>In the song, he/she says “떠나요 둘이서 모든 걸 훌훌 버리고 (Let us leave together leaving everything behind)” and “도시의 침묵 보다는 바다의 속삭임이 좋아요 (I like the whispers of the sea than the silence of the city)”. <br/>Having lived in suburb China and Gyeonggi-do (suburb) previously, I definitely felt the same while living in the city during my middle school years.<br/></p>
 
 <br/>
 
