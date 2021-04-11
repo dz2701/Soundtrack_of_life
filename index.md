@@ -21,8 +21,8 @@
 
 <br/>
 
-<p>Sentimental is the first song in the concert that I have attended for the first time with my friends, and was one of the main events of my childhood. 
-This was when I was so tired from the intense study schedule I had for the first time when I completely settled in Korea for my last year in elementary school. 
+<p>Sentimental is the first song in the concert that I have attended for the first time with my friends, and was one of the main events of my childhood.
+<br/>This was when I was so tired from the intense study schedule I had for the first time when I completely settled in Korea for my last year in elementary school. 
 <br/>It served as a great refresher during my finals week. Although it was only a few days before the actual exam, I don’t regret going, because it definitely helped me relieve some stress and help me focus on the exam more. :D<br/></p>
 
 <br/>
