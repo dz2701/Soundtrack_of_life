@@ -3,7 +3,6 @@
 <style>h1{text-align:center}</style>
 <style>h2{text-align:center}</style>
 <style>h3{text-align:center}</style>
-<style>p{text-align:center;line-height:1.9;}</style>
 <style>iframe{text-align:center}</style>
 
 <h1> Shin Lee's Soundtrack of Life</h1>
