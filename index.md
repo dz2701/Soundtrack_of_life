@@ -51,7 +51,7 @@
 
 <br/>
 
-<p>My 7th grade year was the hardest; I was at school from 8 to 3, then I was at multiple academies until 1 AM, every day, including weekends.<br/> Even looking back from now, I don’t want to go back although without it it was impossible to catch up what we did in school.<br/> This song was a perfect reliever that soothed my soul when I was getting back home from that basement that I was taught in.<br/> It whispers, “수고했어 오늘도 (Good job today)” multiple times, as if it were to congratulate me for completing another day.<br/></p>
+<p>My 7th grade year was the hardest of the eleven years of school; I was at school from 8 to 3, then I was at multiple academies until 1 AM, every day, including weekends.<br/>Looking back from now, I don't think I will be able to withstand that schedule even as a high schooler.<br/> This song was a perfect reliever that soothed my soul when I was getting back home from that basement that I was taught in.<br/> It whispers, “수고했어 오늘도 (Good job today)” multiple times, as if it were to congratulate me for completing another day.<br/></p>
 
 <br/>
 
@@ -82,7 +82,7 @@
 
 <br/>
 
-<p>This is especially important in my life, as it was the song my mother put up during my first birthday party!<br/> Of course, I don’t remember the actual event, but I have watched over and over the recordings of my first birthday and the scene where this song starts playing, and my mom and dad had a short blessing read out loud to Jin and me.<br/> Not only that, my mother often sang the phrase “당신은 사랑받기 위해 태어난 사람” from the song before I went to sleep during my childhood, which I can still remember.<br/></p>
+<p>This is especially important in my life, as it was the song my mother put up during my first birthday party.<br/>Of course, I don’t remember the actual event, but I have watched over and over the recordings of my first birthday and the scene where this song starts playing, and my mom and dad had a short blessing read out loud to Jin and me.<br/>Not only that, my mother often sang the phrase “당신은 사랑받기 위해 태어난 사람” from the song before I went to sleep during my childhood, which I can still remember.<br/></p>
 
 <br/>
 
@@ -94,7 +94,7 @@
 
 <br/>
 
-<p>Every year in South Korean schools, we went on “educational” trips (수련회) to different parts of the country, with friends and teachers to have fun.<br/> In every 수련회, we always had an event called 레크레이션 (recreation), where it was mainly icebreakers and having fun with various activities, including group dancing and performances.<br/> TT was the song that a group performed in my very last 수련회. I can still remember one of my close friends was on stage, and we were recording and making fun of that one mistake she made. <br/></p>
+<p>Every year in South Korean schools, we went on “educational” trips (수련회) to different parts of the country, with friends and teachers to have fun.<br/> In every 수련회, we always had an event called 레크레이션 (recreation), where it was mainly icebreakers and having fun with various activities, including group dances and performances.<br/>TT was the song that a group performed in my very last 수련회. I can still remember one of my close friends was on stage, and we were recording and making fun of that one mistake she made. <br/></p>
 
 <br/>
 
@@ -106,7 +106,7 @@
 
 <br/>
 
-<p>I studied in an international school in China until my fourth grade, and during the second semester of fifth grade I came back to Korea to resume my education.<br/>At first, I was super confused and unfamiliar with the new system I was in. <br/>Joining the school orchestra was one of the things to solve that; and this song was the song we practiced to join a competition, and one first place. <br/></p>
+<p>I studied in an international school in China until my fourth grade, and during the second semester of fifth grade I came back to Korea to resume my education.<br/>At first, I was super confused and unfamiliar with the new system I was in. <br/>Joining the school orchestra was one of the things to resolve that; and this song was the song we practiced to join a competition, and won first place. <br/></p>
 
 <br/>
 
@@ -125,7 +125,7 @@
   
 <br/>
 
-<p>Old Reserve. This song can be said to be one of the most important music in my life.<br/> As this is the song for the high school that I attend, this song not only represents my current identity, but also brings back my memories of freshman and sophomore year.<br/> Even after I graduate, hearing the first phrase of the song, "Fair halls amidst" will bring back memories in Reserve.<br/></p>
+<p>Old Reserve. This song can be said to be one of the most important music in my life.<br/> As this is the song for the high school that I attend, this song not only represents my current identity, but also brings back my memories of freshman and sophomore year.<br/>Even after I graduate, hearing the first phrase of the song, "Fair halls amidst" will bring back memories in Reserve.<br/></p>
 
 <br/>
 <br/>
