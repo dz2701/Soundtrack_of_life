@@ -51,6 +51,20 @@
 <br/>
 
 
+<h3> 결혼해 줄래 (Will You Marry Me) - 이승기<br/></h3>
+
+<br/>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/g7cG4AThdsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<br/>
+
+<p>My second oldest sister got married two years ago, and she wanted us to sing a song for her in her wedding. So Jin and I decided to practice this song (which was commonly sang in weddings to bless the bride and groom) for them. I especially remember the phrase “평생을 사랑할게, 평생을 지켜줄게, 너만큼 좋은 사람 만난걸 감사해 (I will love you forever, keep you safe forever, I am grateful to meet you)”, because when Jin and I got to that point, she started crying. It’s indubitably one of the most important songs in my life.
+<br/></p>
+
+<br/>
+
+
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/95553519">OLD RESERVE</a> from <a href="https://vimeo.com/wravideo">Western Reserve Academy</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
 
