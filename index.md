@@ -26,20 +26,6 @@
 
 <br/>
 
-<h3> 여행(Travel) - 볼빨간사춘기<br/></h3>
-
-<br/>
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/qKkp-47stm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-<br/>
-
-<p>Sentimental is the first song in the concert that I have attended for the first time with my friends, and was one of the main events of my childhood. 
-This was when I was so tired from the intense study schedule I had for the first time when I completely settled in Korea for my last year in elementary school. 
-It served as a great refresher during my finals week. Although it was only a few days before the actual exam, I don’t regret going, because it definitely helped me relieve some stress and help me focus on the exam more. :D<br/></p>
-
-<br/>
-
 <h3> 제주도의 푸른 밤 (The Night of Jeju Island) - 최성원 (Choi Seong Won) <br/></h3>
 
 <br/>
@@ -52,15 +38,19 @@ It served as a great refresher during my finals week. Although it was only a few
 
 <br/>
 
+<h3> 수고했어 오늘도 (Good Job Today) - 옥상달빛<br/></h3>
+
+<br/>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/U3e4AOd-DzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<br/>
+
+<p>My 7th grade year was the hardest; I was at school from 8 to 3, then I was at multiple academies until 1 AM, every day, including weekends. Even looking back from now, I don’t want to go back although without it it was impossible to catch up what we did in school. This song was a perfect reliever that soothed my soul when I was getting back home from that basement that I was taught in. It whispers, “수고했어 오늘도 (Good job today)” multiple times, as if it were to congratulate me for completing another day.<br/></p>
+
+<br/>
+
 
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/95553519">OLD RESERVE</a> from <a href="https://vimeo.com/wravideo">Western Reserve Academy</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dz2701/Soundtrack_of_life/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
