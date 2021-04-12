@@ -59,8 +59,7 @@
 
 <br/>
 
-<p>My second oldest sister got married two years ago, and she wanted us to sing a song for her in her wedding.<br/> So Jin and I decided to practice this song (which was commonly sang in weddings to bless the bride and groom) for them.<br/> I especially remember the phrase “평생을 사랑할게, 평생을 지켜줄게, 너만큼 좋은 사람 만난걸 감사해 (I will love you forever, keep you safe forever, I am grateful to meet you)”, because when Jin and I got to that point, she started crying.<br/> It’s indubitably one of the most important songs in my life.
-<br/></p>
+<p>My second oldest sister got married two years ago, and she wanted us to sing a song for her in her wedding.<br/> So Jin and I decided to practice this song (which was commonly sang in weddings to bless the bride and groom) for them.<br/> I especially remember the phrase “평생을 사랑할게, 평생을 지켜줄게, 너만큼 좋은 사람 만난걸 감사해 (I will love you forever, keep you safe forever, I am grateful to meet you)”, because when Jin and I got to that point, she started crying.<br/> It’s indubitably one of the most important songs in my life.<br/></p>
 
 <br/>
 
@@ -68,6 +67,19 @@
 <center><image src="wedding.jpeg"></image></center>
 <center><h5>This is me and Jin singing to my sister and her groom during her wedding.</h5></center>
 
+<br/><br/>
+
+<h3> TT - Twice<br/></h3>
+
+<br/>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Y2fRzlxVkKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<br/>
+
+<p>Every year in South Korean schools, we went on “educational” trips (수련회) to different parts of the country, with friends and teachers to have fun.<br/> In every 수련회, we always had an event called 레크레이션 (recreation), where it was mainly icebreakers and having fun with various activities, including group dancing and performances.<br/> TT was the song that a group performed in my very last 수련회. I can still remember one of my close friends was on stage, and we were recording and making fun of that one mistake she made. <br/></p>
+
+<br/>
 
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/95553519">OLD RESERVE</a> from <a href="https://vimeo.com/wravideo">Western Reserve Academy</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
