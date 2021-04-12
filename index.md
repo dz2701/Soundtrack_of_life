@@ -27,7 +27,7 @@
 
 <p>Sentimental is the first song in the concert that I have attended for the first time with my friends, and was one of the main events of my childhood.
 <br/>This was when I was so tired from the intense study schedule I had for the first time when I completely settled in Korea for my last year in elementary school. 
-<br/>It served as a great refresher during my finals week. Although it was only a few days before the actual exam, I don’t regret going, because it definitely helped me relieve some stress and help me focus on the exam more. :D<br/></p>
+<br/>It served as a great refresher during my finals week. Although it was only a few days before the actual exam, I don’t regret going, because it definitely helped me relieve some stress and helped me focus on the exam more.<br/></p>
 
 <br/>
 
@@ -39,7 +39,7 @@
 
 <br/>
 
-<p>I actually got to know this song by a cover by another artist, but it is a song about moving to Jeju Island and running away from the busy, dry life in the city.<br/>At that time, I was very pessimistic about living in the city, and felt similar and listened to this music on my way back home from my math academy. <br/>In the song, he/she says “떠나요 둘이서 모든 걸 훌훌 버리고 (Let us leave together leaving everything behind)” and “도시의 침묵 보다는 바다의 속삭임이 좋아요 (I like the whispers of the sea than the silence of the city)”. <br/>Having lived in suburb China and Gyeonggi-do (suburb) previously, I definitely felt the same while living in the city during my middle school years.<br/></p>
+<p><i>The Night of Jeju Island</i>is a song about moving to Jeju Island and running away from the busy, dry life in the city.<br/>At that time, I was very tired about living in the city, and the music had similar ideas as I am.<br/>In the song, he/she says “떠나요 둘이서 모든 걸 훌훌 버리고 (Let us leave together leaving everything behind)” and “도시의 침묵 보다는 바다의 속삭임이 좋아요 (I like the whispers of the sea than the silence of the city)”. <br/>Having lived in suburb China and Gyeonggi-do (suburb) previously, I definitely felt the same while living in the city during my middle school years.<br/></p>
 
 <br/>
 
