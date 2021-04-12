@@ -94,7 +94,7 @@
 <br/>
 
 <br/>
-<center><image src = "orchestra.jpeg"></image></center>
+<center><image src="orchestra.jpeg"></image></center>
 <center><h5>This is the image of our orchestra and our performance</h5></center>
 
 <br/>
