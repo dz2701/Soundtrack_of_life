@@ -99,8 +99,19 @@
 
 <br/>
 
+<h3>Old Reserve - Ralph Clewell<br/></h3>
 
+<br/>
 
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/95553519">OLD RESERVE</a> from <a href="https://vimeo.com/wravideo">Western Reserve Academy</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+  
+<br/>
+
+<p>Old Reserve. This song can be said to be one of the most important music in my life.<br/> As this is the song for the high school that I attend, this song not only represents my current identity, but also brings back my memories of freshman and sophomore year.<br/> Even after I graduate, hearing the first phrase of the song, "Fair halls amidst" will bring back memories in Reserve.<br/></p>
+
+<br/>
+
+
+
+
 
