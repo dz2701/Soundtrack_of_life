@@ -64,7 +64,7 @@
 
 <br/>
 
-<image src="./wedding.jpeg"></image>
+<image src="wedding.jpeg"></image>
 
 
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
