@@ -134,8 +134,8 @@
 <ul>
   <li><p>The order of the songs were chosen with loose chronological order and significance in life.
 This means that the songs were roughly ordered in chronological order, but the song's importance in my life takes up a larger portion in deciding where the song is located.</p></li>
-  <li>Please do not save or use any images on this site</li>
-  <li>If there are any questions or concerns, please contact me via email at: LeeS22@wra.net.</li>
+  <li><p>Please do not save or use any images on this site</p></li>
+  <li><p>If there are any questions or concerns, please contact me via email at: LeeS22@wra.net.</p></li>
 </ul>
 
 
