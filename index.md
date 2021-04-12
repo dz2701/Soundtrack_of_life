@@ -104,13 +104,19 @@
 
 <br/>
 
-<center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></center>
   
 <br/>
 
 <p>Old Reserve. This song can be said to be one of the most important music in my life.<br/> As this is the song for the high school that I attend, this song not only represents my current identity, but also brings back my memories of freshman and sophomore year.<br/> Even after I graduate, hearing the first phrase of the song, "Fair halls amidst" will bring back memories in Reserve.<br/></p>
 
 <br/>
+
+
+<center><h4>Few Sidenotes...</h4></center>
+<p>The order of the songs were chosen with loose chronological order and significance in life.</p><br/>
+<p>This means that the songs were roughly ordered in chronological order, but the song's importance in my life takes up a larger portion in deciding where the song is located.</p>
+
 
 
 
