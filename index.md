@@ -5,6 +5,11 @@
 <style>h3{text-align:center}</style>
 <style>iframe{text-align:center}</style>
 <style>p{line-height:1.8}</style>
+<script>
+  $("body").on("contextmenu",function(e){
+     return false;
+});
+  </script>
 <h1> Shin Lee's Soundtrack of Life</h1>
 
 <p><h3>This is a project for Western Reserve Academy's Angles in Writing course.<br/></h3>
@@ -126,8 +131,10 @@
 <br/>
 
 <center><h4>Few Sidenotes...</h4></center>
-<p>The order of the songs were chosen with loose chronological order and significance in life.
-This means that the songs were roughly ordered in chronological order, but the song's importance in my life takes up a larger portion in deciding where the song is located.</p>
+<ul>
+  <li><p>The order of the songs were chosen with loose chronological order and significance in life.
+This means that the songs were roughly ordered in chronological order, but the song's importance in my life takes up a larger portion in deciding where the song is located.</p></li>
+  <li>Please do not use or 
 
 
 
