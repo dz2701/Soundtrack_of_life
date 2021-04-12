@@ -4,7 +4,7 @@
 <style>h2{text-align:center}</style>
 <style>h3{text-align:center}</style>
 <style>iframe{text-align:center}</style>
-
+<style>p{line-height:1.8}</style>
 <h1> Shin Lee's Soundtrack of Life</h1>
 
 <p><h3>This is a project for Western Reserve Academy's Angles in Writing course.<br/></h3>
