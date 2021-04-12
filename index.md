@@ -8,7 +8,7 @@
 <h1> Shin Lee's Soundtrack of Life</h1>
 
 <p><h3>This is a project for Western Reserve Academy's Angles in Writing course.<br/></h3>
-<h4>Below are 9 songs that were some of the most influential songs in my life.</h4></p>
+<h4>Below are 8 songs that were some of the most influential songs in my life.</h4></p>
 
 <br/>
 
@@ -68,6 +68,18 @@
 <center><h5>This is me and Jin singing to my sister and her groom during her wedding.</h5></center>
 
 <br/><br/>
+
+<h3> 당신은 사랑받기 위해 태어난 사람(You were born to be loved)<br/></h3>
+
+<br/>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5MRH5oNG7hA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></center>
+
+<br/>
+
+<p>This is especially important in my life, as it was the song my mother put up during my first birthday party!<br/> Of course, I don’t remember the actual event, but I have watched over and over the recordings of my first birthday and the scene where this song starts playing, and my mom and dad had a short blessing read out loud to Jin and me.<br/> Not only that, my mother often sang the phrase “당신은 사랑받기 위해 태어난 사람” from the song before I went to sleep during my childhood, which I can still remember.<br/></p>
+
+<br/>
 
 <h3> TT - Twice<br/></h3>
 
