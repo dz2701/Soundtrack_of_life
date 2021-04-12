@@ -81,6 +81,26 @@
 
 <br/>
 
+<h3> Danse Macabre (Dance of Death) - Saint-Saëns<br/></h3>
+
+<br/>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/YyknBTm_YyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<br/>
+
+<p>I studied in an international school in China until my fourth grade, and during the second semester of fifth grade I came back to Korea to resume my education.<br/>At first, I was super confused and unfamiliar with the new system I was in. <br/>Joining the school orchestra was one of the things to solve that; and this song was the song we practiced to join a competition, and one first place. <br/></p>
+
+<br/>
+
+<br/>
+<center><image src = "orchestra.jpeg"></image></center>
+<center><h5>This is the image of our orchestra and our performance</h5></center>
+
+<br/>
+
+
+
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/95553519">OLD RESERVE</a> from <a href="https://vimeo.com/wravideo">Western Reserve Academy</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
 
