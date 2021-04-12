@@ -46,7 +46,7 @@
 
 <br/>
 
-<p>My 7th grade year was the hardest; I was at school from 8 to 3, then I was at multiple academies until 1 AM, every day, including weekends. Even looking back from now, I don’t want to go back although without it it was impossible to catch up what we did in school. This song was a perfect reliever that soothed my soul when I was getting back home from that basement that I was taught in. It whispers, “수고했어 오늘도 (Good job today)” multiple times, as if it were to congratulate me for completing another day.<br/></p>
+<p>My 7th grade year was the hardest; I was at school from 8 to 3, then I was at multiple academies until 1 AM, every day, including weekends.<br/> Even looking back from now, I don’t want to go back although without it it was impossible to catch up what we did in school.<br/> This song was a perfect reliever that soothed my soul when I was getting back home from that basement that I was taught in.<br/> It whispers, “수고했어 오늘도 (Good job today)” multiple times, as if it were to congratulate me for completing another day.<br/></p>
 
 <br/>
 
@@ -59,10 +59,11 @@
 
 <br/>
 
-<p>My second oldest sister got married two years ago, and she wanted us to sing a song for her in her wedding. So Jin and I decided to practice this song (which was commonly sang in weddings to bless the bride and groom) for them. I especially remember the phrase “평생을 사랑할게, 평생을 지켜줄게, 너만큼 좋은 사람 만난걸 감사해 (I will love you forever, keep you safe forever, I am grateful to meet you)”, because when Jin and I got to that point, she started crying. It’s indubitably one of the most important songs in my life.
+<p>My second oldest sister got married two years ago, and she wanted us to sing a song for her in her wedding.<br/> So Jin and I decided to practice this song (which was commonly sang in weddings to bless the bride and groom) for them.<br/> I especially remember the phrase “평생을 사랑할게, 평생을 지켜줄게, 너만큼 좋은 사람 만난걸 감사해 (I will love you forever, keep you safe forever, I am grateful to meet you)”, because when Jin and I got to that point, she started crying.<br/> It’s indubitably one of the most important songs in my life.
 <br/></p>
 
 <br/>
+
 
 
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
