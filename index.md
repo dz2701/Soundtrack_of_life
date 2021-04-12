@@ -64,7 +64,9 @@
 
 <br/>
 
-<image src="wedding.jpeg"></image>
+<br/>
+<center><image src="wedding.jpeg"></image></center>
+<center><h5>This is me and Jin singing to my sister and her groom during her wedding.</h5></center>
 
 
 <center><iframe src="https://player.vimeo.com/video/95553519" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
